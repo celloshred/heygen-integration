@@ -28,12 +28,12 @@ My approach is simple: education, transparency, and rates built around your need
 Let's make it happen.
 
 ## HeyGen
-- Group ID: (to be filled after avatar creation)
-- Voice ID: (to be filled after voice selection)
-- Voice Name: (to be filled after voice selection)
-- Voice Designed: true
+- Group ID: 24100c8d472443bca06e67874e18ff0f
+- Voice ID: 09a953ccd26a4e10884dadfaebd916ee
+- Voice Name: Michael - Office (default)
+- Voice Designed: false
 - Voice Seed: 0
-- Looks: landscape=(to be filled after creation)
-- Last Synced: (to be filled after creation)
+- Looks: landscape=(resolve fresh from group_id)
+- Last Synced: 2026-05-01T00:00:00Z
 
 ⚠️ look_ids are ephemeral — always resolve fresh from group_id at runtime via `heygen avatar looks list --group-id <id>`. Never hardcode look_id as the primary avatar reference.
